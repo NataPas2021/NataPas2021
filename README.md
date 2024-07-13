@@ -1,4 +1,11 @@
-Hi, my name is Nataliia 👋
+# Hi, my name is Nataliia 👋
+
+📫: Reach me out!
+![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnataliia-pashchenko-frontenddeveloper%2F)
+
+
+# Top technologies
+
 
 <!--
 **NataPas2021/NataPas2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
