@@ -7,7 +7,7 @@
 
 # Top technologies
 
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%2361DAFB&color=black)
 
 
 <!--
