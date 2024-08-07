@@ -1,8 +1,10 @@
 # Hi, my name is Nataliia 👋
 
-📫: Reach me out!
-<img alt="Static Badge" src="https://img.shields.io/badge/Nataliia_Pashchenko-%230A66C2?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnataliia-pashchenko-frontenddeveloper%2F">
+📫: # Connect with Me
 
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/nataliia-pashchenko-frontenddeveloper/). Click on the icon below to visit my profile:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nataliia-pashchenko-frontenddeveloper/)
 
 
 # Top technologies
