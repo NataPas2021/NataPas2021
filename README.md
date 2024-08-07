@@ -4,7 +4,7 @@
 
 You can connect with me on [Linkedin](https://www.linkedin.com/in/nataliia-pashchenko-frontenddeveloper/). Click on the icon below to visit my profile:
 
-[![LinkedIn](https://img.shields.io/badge/NAtaliia-Pashchenko-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nataliia-pashchenko-frontenddeveloper/)
+[![LinkedIn](https://img.shields.io/badge/Nataliia-Pashchenko-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nataliia-pashchenko-frontenddeveloper/)
 
 
 # Top technologies
